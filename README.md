@@ -1,4 +1,3 @@
-XML Viewer
 Visualizador de XML
 =========
 
@@ -18,4 +17,8 @@ Visualizador de XML dentro de um elemento DIV
 </xmp>
 </pre>
 
+<a href="https://jsfiddle.net/periclesnetto/wsn1h9fh/1/" target="_blank">Demo aqui (here)</a>
+
 <img src="https://github.com/PericlesNetto/aplicacao/blob/master/image.png">
+
+
