@@ -1,9 +1,9 @@
-Visualizador de XML
 XML Viewer
+Visualizador de XML
 =========
 
-Visualizador de XML dentro de um elemento DIV
 XML viewer inside a DIV element
+Visualizador de XML dentro de um elemento DIV
 
-Requer jquery
 jquery required
+requer jquery
