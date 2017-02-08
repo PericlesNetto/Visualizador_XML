@@ -18,6 +18,7 @@ requer jquery
 <script type="text/javascript">
 
   cf_mostra_xml(xml,id_elemento);
+  /* Sintaxe: cf_mostra_xml(xml,elemento_id,pixels_identa,cor_node,cor_menos,cor_mais,cor_string,cor_inteiro,cor_float,cor_attributo,cor_atributo_valor); depende de jquery */
 
 </script>
 </xmp>
