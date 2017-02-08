@@ -9,3 +9,5 @@ Visualizador de XML dentro de um elemento DIV
 jquery required
 
 requer jquery
+
+<img src="https://github.com/PericlesNetto/aplicacao/blob/master/image.png">
