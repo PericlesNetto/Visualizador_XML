@@ -10,7 +10,8 @@ jquery required
 
 requer jquery
 
-<pre>
+<xmp>
+
 <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
 <script type="text/javascript" src="cf_mostra_xml.js"></script>
 
@@ -19,7 +20,6 @@ requer jquery
   cf_mostra_xml(xml,id_elemento);
 
 </script>
-
-</pre>
+</xmp>
 
 <img src="https://github.com/PericlesNetto/aplicacao/blob/master/image.png">
