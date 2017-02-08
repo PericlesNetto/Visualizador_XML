@@ -9,7 +9,7 @@ Visualizador de XML dentro de um elemento DIV
 jquery required
 
 requer jquery
-
+<pre>
 <xmp>
 
 <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
@@ -21,5 +21,6 @@ requer jquery
 
 </script>
 </xmp>
+</pre>
 
 <img src="https://github.com/PericlesNetto/aplicacao/blob/master/image.png">
